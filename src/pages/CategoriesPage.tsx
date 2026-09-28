@@ -8,7 +8,7 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 export default function CategoriesPage() {
   useSEO({
     title: "Categorias — Portal BR Espanha",
-    description: "Navegue por categorias: culinária, barbearias, mercados, advogados e documentação, imobiliárias e mais.",
+    description: "Navegue por categorias: culinária, barbearias, mercados, advogados, imobiliárias e mais.",
   });
 
   const [counts, setCounts] = useState<Record<string, number>>({});

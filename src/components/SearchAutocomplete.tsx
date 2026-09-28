@@ -13,7 +13,7 @@ const CATEGORY_SUGGESTIONS: Suggestion[] = [
   { type: "category", label: "Barbearias", value: "Barbearias", icon: "Scissors" },
   { type: "category", label: "Mercados", value: "Mercados", icon: "ShoppingCart" },
   { type: "category", label: "Imobiliárias", value: "Imobiliárias", icon: "Home" },
-  { type: "category", label: "Advogados e Documentação", value: "Advogados e Documentação", icon: "Scale" },
+  { type: "category", label: "Advogados", value: "Advogados", icon: "Scale" },
   { type: "category", label: "Viagens", value: "Viagens", icon: "Plane" },
   { type: "category", label: "Eventos", value: "Eventos", icon: "PartyPopper" },
   { type: "category", label: "Lojas", value: "Lojas", icon: "ShoppingBag" },
