@@ -61,14 +61,15 @@ export const CATEGORIES: Category[] = [
   { key: "Culinária", label: "Culinária", icon: "UtensilsCrossed", description: "Restaurantes e locais para comer: comida brasileira, lanches rápidos, padarias, cafeterias e muito mais. Encontre sabores de casa na Costa Blanca." },
   { key: "Barbearias", label: "Barbearias", icon: "Scissors", description: "Barbearias e salões de cabeleireiro com profissionais brasileiros. Cortes, barba, pigmentação e tratamentos capilares em Alicante e região." },
   { key: "Mercados", label: "Mercados", icon: "ShoppingCart", description: "Mercados e lojas de produtos brasileiros e latinos. Compre alimentos, temperos, bebidas e produtos importados perto de si." },
-  { key: "Imobiliárias", label: "Imobiliárias", icon: "Home", description: "Imobiliárias e profissionais do setor para arrendar, comprar ou vender casas e apartamentos. Encontre a sua casa na Espanha com quem fala a sua língua." },
-  { key: "Advogados", label: "Advogados", icon: "Scale", description: "Advogados e consultores jurídicos especializados em imigração, residência, trabalho, NIE, empadronamento, tradução juramentada, legalização e gestões junto a organismos públicos espanhóis." },
+  { key: "Imóveis", label: "Imóveis", icon: "Home", description: "Arrendar, comprar ou vender casas e apartamentos na Costa Blanca. Encontre a sua casa na Espanha com profissionais que falam a sua língua." },
+  { key: "Assessoria de Documentação", label: "Assessoria de Documentação", icon: "Scale", description: "Assessoria e serviços de documentação: NIE, empadronamento, tradução juramentada, legalização, residência, trabalho e gestões junto a organismos públicos espanhóis. Apoio completo para brasileiros na Espanha." },
   { key: "Viagens", label: "Viagens", icon: "Plane", description: "Agências de viagens e transporte: passagens, excursões, transfers de aeroporto e pacotes turísticos para brasileiros na Europa." },
   { key: "Eventos", label: "Eventos", icon: "PartyPopper", description: "Organização de eventos, festas, catering, decoração, música e entretenimento. Tudo para tornar a sua celebração inesquecível." },
   { key: "Lojas", label: "Lojas", icon: "ShoppingBag", description: "Lojas e comércios: moda, calçado, acessórios, eletrónica, artigos para casa e muito mais. Compre de quem entende o que o brasileiro procura." },
   { key: "Cuidados pessoais e estética", label: "Cuidados pessoais e estética", icon: "Sparkles", description: "Salões de beleza, estética, manicure, depilação, massagens e tratamentos estéticos. Cuide de si com profissionais de confiança." },
   { key: "Vagas de Emprego", label: "Vagas de Emprego", icon: "BriefcaseBusiness", description: "Oportunidades de trabalho para brasileiros na Costa Blanca. Vagas em restaurantes, comércio, serviços, construção e mais. Candidate-se diretamente." },
   { key: "Serviços", label: "Serviços", icon: "Wrench", description: "Serviços diversos: limpeza, reparação, construção, pintura, eletricidade, canalização e outros profissionais qualificados à sua disposição." },
+  { key: "Esporte e Fitness", label: "Esporte e Fitness", icon: "Dumbbell", description: "Academias, personal trainers, artes marciais, futebol, vôlei e atividades desportivas para brasileiros na Costa Blanca. Mantenha-se ativo e saudável na Espanha." },
 ];
 
 export const CITIES: CityInfo[] = [

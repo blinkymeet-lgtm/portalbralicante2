@@ -12,13 +12,14 @@ const CATEGORY_SUGGESTIONS: Suggestion[] = [
   { type: "category", label: "Culinária", value: "Culinária", icon: "UtensilsCrossed" },
   { type: "category", label: "Barbearias", value: "Barbearias", icon: "Scissors" },
   { type: "category", label: "Mercados", value: "Mercados", icon: "ShoppingCart" },
-  { type: "category", label: "Imobiliárias", value: "Imobiliárias", icon: "Home" },
-  { type: "category", label: "Advogados", value: "Advogados", icon: "Scale" },
+  { type: "category", label: "Imóveis", value: "Imóveis", icon: "Home" },
+  { type: "category", label: "Assessoria de Documentação", value: "Assessoria de Documentação", icon: "Scale" },
   { type: "category", label: "Viagens", value: "Viagens", icon: "Plane" },
   { type: "category", label: "Eventos", value: "Eventos", icon: "PartyPopper" },
   { type: "category", label: "Lojas", value: "Lojas", icon: "ShoppingBag" },
   { type: "category", label: "Cuidados pessoais e estética", value: "Cuidados pessoais e estética", icon: "Sparkles" },
   { type: "category", label: "Serviços", value: "Serviços", icon: "Wrench" },
+  { type: "category", label: "Esporte e Fitness", value: "Esporte e Fitness", icon: "Dumbbell" },
 ];
 
 const CITY_SUGGESTIONS: Suggestion[] = [
@@ -31,9 +32,9 @@ const CITY_SUGGESTIONS: Suggestion[] = [
 const POPULAR_TERMS: Suggestion[] = [
   { type: "term", label: "Restaurante brasileiro", value: "Restaurante brasileiro", icon: "TrendingUp" },
   { type: "term", label: "Barbearia", value: "Barbearia", icon: "TrendingUp" },
-  { type: "term", label: "Advogado", value: "Advogado", icon: "TrendingUp" },
+  { type: "term", label: "Assessoria", value: "Assessoria", icon: "TrendingUp" },
   { type: "term", label: "Mercado brasileiro", value: "Mercado brasileiro", icon: "TrendingUp" },
-  { type: "term", label: "Imobiliária", value: "Imobiliária", icon: "TrendingUp" },
+  { type: "term", label: "Imóveis", value: "Imóveis", icon: "TrendingUp" },
 ];
 
 const ALL_SUGGESTIONS = [...CATEGORY_SUGGESTIONS, ...CITY_SUGGESTIONS, ...POPULAR_TERMS];
